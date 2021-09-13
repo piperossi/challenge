@@ -1,0 +1,58 @@
+[
+  {
+    "categoria": "Cultura",
+    "pregunta": "¿Cual es el rio mas largo del mundo?",
+    "respuestacorrecta": "Rio Amazonas",
+    "respuesta2": "Rio Nilo",
+    "respuesta3": "Rio Amur",
+    "respuesta4": "Rio Amarillo"
+
+  },
+
+  {
+    "categoria": "Cultura",
+    "pregunta": "¿Cual es el pais con menos habitantes del mundo?",
+    "respuestacorrecta": "Ciudad del vaticano",
+    "respuesta2": "India",
+    "respuesta3": "Uruguay",
+    "respuesta4": "La Union Sovietica Russa"
+
+  },
+
+  {
+    "categoria": "Historia",
+    "pregunta": "¿Que inicio la segundad guerra mundial?",
+    "respuestacorrecta": "Alemania invadiendo Polonia",
+    "respuesta2": "Hitler invadio Austria",
+    "respuesta3": "EEUU en respaldo de Francia",
+    "respuesta4": "San Marino"
+
+  },
+
+  {
+    "categoria": "Historia",
+    "pregunta": "¿En que año descubrio Cristobal Colon America?",
+    "respuestacorrecta": "1492",
+    "respuesta2": "1592",
+    "respuesta3": "1399",
+    "respuesta4": "1456"
+
+  }
+
+
+
+
+
+
+
+
+
+
+]
+
+
+
+
+
+
+
